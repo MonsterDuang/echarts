@@ -17,5 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![echarts](/src/assets/echarts.png)
+![chinamap](/src/assets/chinamap.png)
+![worldmap](/src/assets/worldmap.png)
+![music](/src/assets/music.png)
