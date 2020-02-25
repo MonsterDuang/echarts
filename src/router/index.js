@@ -4,6 +4,7 @@ import HelloWorld from '@/components/HelloWorld'
 import WorldMap from '@/components/WorldMap'
 import ChinaMap from '@/components/ChinaMap'
 import Audio from '@/components/Audio'
+import Anchor from '@/components/Anchor'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
       path: '/audio',
       name: 'Audio',
       component: Audio
+    },
+    {
+      path: '/anchor',
+      name: 'Anchor',
+      component: Anchor
     }
   ]
 })

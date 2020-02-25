@@ -12,8 +12,11 @@
   "dependencies": {
     "axios": "^0.18.0",
     "echarts": "^4.2.0-rc.2",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuetify": "^2.2.14"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

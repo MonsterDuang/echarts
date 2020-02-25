@@ -12,6 +12,9 @@
     <router-link to="/audio">
       音乐
     </router-link>
+    <router-link to="/anchor">
+      锚点
+    </router-link>
     <router-view/>
   </div>
 </template>
